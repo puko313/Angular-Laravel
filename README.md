@@ -1,102 +1,44 @@
-Contribution: 2012-01-16 20:00
+# AngularLaravel
 
-Contribution: 2012-01-16 20:01
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.3.
 
-Contribution: 2012-01-16 20:02
+## Development server
 
-Contribution: 2012-01-17 20:00
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Contribution: 2012-01-17 20:01
+## Code scaffolding
 
-Contribution: 2012-01-17 20:02
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Contribution: 2012-01-18 20:00
+## Build
 
-Contribution: 2012-01-18 20:01
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-Contribution: 2012-01-19 20:00
+## Running unit tests
 
-Contribution: 2012-01-19 20:01
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Contribution: 2012-01-20 20:00
+## Running end-to-end tests
 
-Contribution: 2012-01-20 20:01
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-Contribution: 2012-01-24 20:00
+## Further help
 
-Contribution: 2012-01-24 20:01
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-Contribution: 2012-01-24 20:02
+# angular-laravel
+- First clone via `git bash` or download.
+- Go to your root folder and run this command to install packages.
+```
+yarn
+```
+- Download [laravel-api](https://github.com/eliyas5044/laravel-api), which i used as a RESTful api and follow the instructions to run your api.
+- You may change the `api` url in `environment` file.
+- Run your `angular` app by this command
+```
+yarn start
+```
+- You have to **login** or **register** to view all **books**
+- The *book* url is `http://localhost:4200/admin/book`
 
-Contribution: 2012-01-25 20:00
-
-Contribution: 2012-01-25 20:01
-
-Contribution: 2012-01-25 20:02
-
-Contribution: 2012-01-25 20:03
-
-Contribution: 2012-01-30 20:00
-
-Contribution: 2012-01-30 20:01
-
-Contribution: 2012-01-30 20:02
-
-Contribution: 2012-01-30 20:03
-
-Contribution: 2012-02-02 20:00
-
-Contribution: 2012-02-02 20:01
-
-Contribution: 2012-02-02 20:02
-
-Contribution: 2012-02-02 20:03
-
-Contribution: 2012-02-02 20:04
-
-Contribution: 2012-02-03 20:00
-
-Contribution: 2012-02-03 20:01
-
-Contribution: 2012-02-03 20:02
-
-Contribution: 2012-02-03 20:03
-
-Contribution: 2012-02-06 20:00
-
-Contribution: 2012-02-06 20:01
-
-Contribution: 2012-02-07 20:00
-
-Contribution: 2012-02-07 20:01
-
-Contribution: 2012-02-07 20:02
-
-Contribution: 2012-02-09 20:00
-
-Contribution: 2012-02-10 20:00
-
-Contribution: 2012-02-10 20:01
-
-Contribution: 2012-02-13 20:00
-
-Contribution: 2012-02-14 20:00
-
-Contribution: 2012-02-14 20:01
-
-Contribution: 2012-02-15 20:00
-
-Contribution: 2012-02-15 20:01
-
-Contribution: 2012-02-15 20:02
-
-Contribution: 2012-02-22 20:00
-
-Contribution: 2012-02-22 20:01
-
-Contribution: 2012-02-22 20:02
-
-Contribution: 2012-02-22 20:03
-
-Contribution: 2012-02-22 20:04
-
+## Enjoy!
